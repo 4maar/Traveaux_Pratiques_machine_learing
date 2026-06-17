@@ -1,0 +1,8 @@
+tenure : Number of months the customer has stayed with the company
+age : age of customer
+adress: Number of months the customer keep the same adress
+income : anual income
+ed : education level 1-->6
+employ : Number of years the customer has work
+equip : equipment, customer has or not an equipment
+churn : 1 the customer lives!!

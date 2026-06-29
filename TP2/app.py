@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # 1. Charger les paramètres calculés par ton script
-sauvegarde = joblib.load('model_maison.pkl')
+sauvegarde = joblib.load('TP2/model_maison.pkl')
 t = sauvegarde['t']
 mu = sauvegarde['mu']
 sigma = sauvegarde['sigma']
